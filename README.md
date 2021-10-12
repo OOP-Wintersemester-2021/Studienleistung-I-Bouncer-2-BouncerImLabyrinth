@@ -69,4 +69,4 @@ Lösen Sie folgende Teilaufgaben, um Bouncer durch das Labyrinth zu führen.
 
 1. Bouncer muss Kreuzungen erkennen
 2. Bouncer muss bei Kreuzungen immer in die gleiche Richtung abbiegen, falls möglich (```Rechte Hand Regel```) 
-3. Sobald Bouncer das rote Feld erreicht hat, färbt Bouncer das rote Feld blau
+3. Sobald Bouncer das rote Feld erreicht hat, färbt Bouncer das rote Feld blau und bleibt stehen
