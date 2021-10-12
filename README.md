@@ -24,7 +24,7 @@ Zum Einreichen Ihrer Aufgaben nutzen Sie die entsprechende Funktion in GRIPS.
 Falls Sie Problemen mit dem Starterpaket oder dem Einreichen der Aufgabe haben, können Sie sich in den Handouts auf GRIPS informieren.
 
 Achtung: Eine Verlängerung der Abgabefrist ist nicht möglich.
-Einreichungen die uns (zu spät) per E-Mail erreichen, werden nicht mehr berücksichtigt.
+Einreichungen, die uns (zu spät) per E-Mail erreichen, werden nicht mehr berücksichtigt.
 Alle nicht eingereichten Aufgaben werden mit nicht bestanden bewertet.
 Testen Sie den Upload am besten schon vor Ablauf der Frist in Ruhe: Sie können bis zum Abgabetermin beliebig viele neue Lösungen einreichen.
 
