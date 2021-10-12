@@ -55,6 +55,7 @@ Bouncer steht auf dem grünen Feld am Eingang des Labyrinths.
 Bouncer soll nun das Labyrinth durchqueren und das rote Feld am Ausgang des Labyrinths erreichen.
 
 Ihr Programm soll für beliebige, lösbare Labyrinthe funktionieren und Bouncer zum Ausgang leiten.
+Testen Sie Ihr Programm daher mit den drei mitgelieferten Maps (Labyrinth, Labyrinth2, Labyrinth3).
 
 **Hinweis:** 
 Ein Ausgang von lösbaren Labyrinthen oder Irrgärten - also Labyrinthe, die mindestens einen Ausgang haben und nicht nur in Sackgassen enden - ist garantiert mit der ```Rechte-Hand-Regel``` zu finden.
